@@ -1,4 +1,5 @@
 # Used Cars-Management-System
+[All about Design Database Used Cars ](https://medium.com/@tittoft/practical-sql-designing-and-creating-a-relational-database-used-cars-bd644a1aba44)
 
 # Database Specification:
 * Purpose
